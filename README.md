@@ -18,7 +18,7 @@ Several Python notebooks for teaching the basics of the Python language and Spar
 
 ## Run Python Spark
 
-1. `PYSPARK_DRIVER_PYTHON='jupyther-notebook' PYSPARK_PYTHON='python' path_to_spark_home/bin/pyspark`
+1. `PYSPARK_DRIVER_PYTHON='jupyter-notebook' PYSPARK_PYTHON='python' path_to_spark_home/bin/pyspark`
 1. Check that `http://localhost:8000`
 
 If for some reason this doesn't work, then run a notebook with Spark from here http://notebooks.codeneuro.org/
